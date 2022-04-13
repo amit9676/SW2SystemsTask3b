@@ -1,5 +1,9 @@
 <div dir="rtl" lang="he">
 
+החלק הרלוונטי:
+    <img width="82" alt="sw2_3b" src="https://user-images.githubusercontent.com/47754727/163219989-637a43ac-3a0e-43d0-a2a7-f433fcf4f353.PNG">
+
+
 # מחשבון מטריצות - חלק ב
 
 כתבו מחלקה לביצועי חישובים על מטריצות, בהתאם להוראות בחלק א.
